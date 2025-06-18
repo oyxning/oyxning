@@ -1,4 +1,4 @@
-<!-- 主页大图：全宽展示 -->
+<!-- 首页大图：全宽展示 -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/oyxning/oyxning/refs/heads/main/sakisaki.jpg" alt="LumineStory Banner" width="100%" style="border-radius: 8px;" />
 </p>
@@ -10,9 +10,9 @@
 
 ## 🧠 关于我
 
-- 🧩 喜欢解决复杂问题、构建优雅的系统
-- 🌈 热衷于探索后端、工具开发、自动化与 AI 应用
-- ✨ 偏好简洁美学、干净代码
+- 🧩 喜欢解决复杂问题、构建优雅的系统  
+- 🌈 热衷于探索后端、工具开发、自动化与 AI 应用  
+- ✨ 偏好简洁美学、干净代码  
 - 📫 有想法欢迎通过 Issue 或 Discussion 联系我！
 
 ---
@@ -29,7 +29,7 @@
 
 ---
 
-## 📈 GitHub 数据统计
+## 📊 GitHub 数据展示
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=oyxning&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -38,6 +38,29 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=oyxning&theme=gruvbox&hide_border=true&border_radius=6.5" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oyxning&theme=gruvbox" alt="Profile Summary" />
+</p>
+
+---
+
+## ⏱️ 活跃图 & 访客统计
+
+<p align="center">
+  <!-- WakaTime 活动图表 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oyxning&theme=gruvbox&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <!-- Star / PR / Issues 等统计 -->
+  <img src="https://github-profile-trophy.vercel.app/?username=oyxning&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
+</p>
+
+<p align="center">
+  <!-- 访客统计 -->
+  <img src="https://komarev.com/ghpvc/?username=oyxning&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
@@ -55,4 +78,3 @@
 - 如有兴趣交流技术或灵感，欢迎留言！
 
 ---
-
