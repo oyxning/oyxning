@@ -57,24 +57,6 @@
 
 ---
 
-## ⏱️ 活跃图 & 访客统计
-
-<p align="center">
-  <!-- WakaTime 活动图表 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oyxning&theme=gruvbox&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <!-- Star / PR / Issues 等统计 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=oyxning&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
-</p>
-
-<p align="center">
-  <!-- 访客统计 -->
-  <img src="https://komarev.com/ghpvc/?username=oyxning&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
----
 
 ## 🌍 个人理念
 
