@@ -31,18 +31,29 @@
 
 ## 📊 GitHub 数据展示
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oyxning&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyxning&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=oyxning&theme=gruvbox&hide_border=true&border_radius=6.5" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oyxning&theme=gruvbox" alt="Profile Summary" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oyxning&theme=github_dark" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oyxning&theme=github_dark&utcOffset=8" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oyxning&theme=github_dark" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oyxning&theme=github_dark" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oyxning&theme=github_dark" />
+    </td>
+  </tr>
+</table>
 
 ---
 
