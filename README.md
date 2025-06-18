@@ -32,11 +32,12 @@
 ## 📈 GitHub 数据统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oyxning&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyxning&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=oyxning&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oyxning&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyxning&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=oyxning&theme=gruvbox&hide_border=true&border_radius=6.5" alt="GitHub Streak" />
 </p>
 
 ---
