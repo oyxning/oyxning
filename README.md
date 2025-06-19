@@ -3,30 +3,28 @@
   <img src="https://raw.githubusercontent.com/oyxning/oyxning/refs/heads/main/sakisaki.jpg" alt="LumineStory Banner" width="100%" style="border-radius: 8px;" />
 </p>
 
-<h1 align="center">你好，我是 <strong>LumineStory</strong>（@oyxning）👋</h1>
-<p align="center">一名热爱编程、探索创意与自动化的开发者。</p>
+<h1 align="center">你好，我是 <strong>LumineStory</strong>（@oyxning）🌸✨</h1>
+<p align="center">一名热爱二次元、编程与创意的开发者。</p>
 
 ---
 
 ## 🧠 关于我
 
-- 🧩 喜欢解决复杂问题、构建优雅的系统  
-- 🌈 热衷于探索后端、工具开发、自动化与 AI 应用  
-- ✨ 偏好简洁美学、干净代码  
+- 🌸 喜欢用代码构建属于自己的幻想世界
+- ✨ 热衷于探索后端、工具开发、自动化与 AI 应用
+- 🎨 偏好简洁美学与二次元风格的设计
 - 📫 有想法欢迎通过 Issue 或 Discussion 联系我！
 
 ---
 
 ## 🛠 技术栈与常用工具
 
-<p align="center">
+<p align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -35,6 +33,13 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AnimeJS-FF9E9E?style=for-the-badge&logo=animejs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+</p>
+<p align="center" style="font-family: 'Comic Sans MS', cursive; font-size: 1.2em;">
+  ✨ 热爱二次元文化，喜欢用代码创造奇迹 ✨<br>
+  🌸 追求极致的美学与效率，享受编程的每一刻 🌸<br>
+  🎨 用技术点亮生活，用创意连接世界 🎨
 </p>
 
 ---
@@ -70,14 +75,14 @@
 
 ## 🌍 个人理念
 
-> 编程不仅是一门技术，更是一种表达方式。  
-> 用代码构建秩序，用思考连接世界。
+> 编程就像魔法，用代码书写属于自己的冒险故事。<br>
+> 用技术点亮生活，用创意连接世界。
 
 ---
 
 ## 📬 联系方式
 
 - GitHub：[@oyxning](https://github.com/oyxning)
-- 如有兴趣交流技术或灵感，欢迎留言！
+- 如果你也喜欢二次元或技术，欢迎留言交流！
 
 ---
