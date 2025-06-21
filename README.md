@@ -6,22 +6,31 @@
 <h1 align="center" style="font-family: 'ZCOOL KuaiLe', 'Comic Sans MS', cursive; color: #ffb6c1; text-shadow: 0 2px 8px #e1eaff;">你好哇，这里是 <strong>LumineStory</strong>（@oyxning）🌸✨</h1>
 <p align="center" style="font-size: 1.2em; color: #a3a3ff; margin-bottom: 0.5em;">一名沉迷二次元与代码的魔法少女程序员，梦想用技术点亮世界！</p>
 
+<p align="center">
+  <b>♪ 网络歌曲推荐：Dye the sky. - シャイニーカラーズ</b><br/>
+  <audio controls style="margin-top: 8px; width: 320px;">
+    <source src="https://m801.music.126.net/20250621204622/1d90bc3ab37d4ea6e9f35faab7fcb6a7/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/8721185631/38b7/34e6/a1c7/61348a8c1f8b6de1cd21d351c7c2bdfb.mp3?vuutv=H6tNI+lsoFHwTo91OsA2YUE7iTGMrbVfnXeUs0vX5qXjZJcEdIMb5L8gGTRTuxoznbYb9SSKyL8PL6aLeUYkjMhBJYyzcIldRNNmx/DBd1Y=" type="audio/mpeg">
+    您的浏览器不支持 audio 标签。
+  </audio>
+  <br/>
+  <span style="color:#bdbdbd;font-size:0.95em;">（歌曲来源于网络，仅供学习与欣赏）</span>
+</p>
+
 ---
 
 ## 🧠 关于我
 
 <div align="center">
-
-<table>
+<table width="90%">
   <tr>
-    <td align="left" valign="top" width="50%">
+    <td valign="top" width="50%">
       <ul>
         <li>🌸 喜欢用代码构建属于自己的幻想世界，热爱 ACGN 与技术的交汇</li>
         <li>🪄 追求极致的美学与效率，享受每一次“魔法释放”般的开发体验</li>
         <li>✨ 探索后端、自动化、AI 应用、工具开发，偶尔也会画点小插画</li>
       </ul>
     </td>
-    <td align="left" valign="top" width="50%">
+    <td valign="top" width="50%">
       <ul>
         <li>🐾 喜欢猫猫、手办、轻小说和各种萌系事物</li>
         <li>🎵 边听二次元音乐边 coding，偶尔也会写点同人文</li>
@@ -30,7 +39,6 @@
     </td>
   </tr>
 </table>
-
 </div>
 
 ---
