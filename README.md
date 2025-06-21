@@ -6,12 +6,6 @@
 <h1 align="center" style="font-family: 'ZCOOL KuaiLe', 'Comic Sans MS', cursive; color: #ffb6c1; text-shadow: 0 2px 8px #e1eaff;">你好哇，这里是 <strong>LumineStory</strong>（@oyxning）🌸✨</h1>
 <p align="center" style="font-size: 1.2em; color: #a3a3ff; margin-bottom: 0.5em;">一名沉迷二次元与代码的魔法少女程序员，梦想用技术点亮世界！</p>
 
-<div align="center" style="margin-bottom: 1em;">
-  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2020880853&auto=1&height=66"></iframe>
-  <br/>
-  <span style="color:#ffb6c1;font-size:0.95em;">（边听边看，欢迎进入二次元的魔法世界~）</span>
-</div>
-
 ---
 
 ## 🧠 关于我
