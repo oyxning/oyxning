@@ -6,32 +6,39 @@
 <h1 align="center" style="font-family: 'ZCOOL KuaiLe', 'Comic Sans MS', cursive; color: #ffb6c1; text-shadow: 0 2px 8px #e1eaff;">你好哇，这里是 <strong>LumineStory</strong>（@oyxning）🌸✨</h1>
 <p align="center" style="font-size: 1.2em; color: #a3a3ff; margin-bottom: 0.5em;">一名沉迷二次元与代码的魔法少女程序员，梦想用技术点亮世界！</p>
 
-<div align="center" style="margin-bottom: 1em;">
-  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2020880853&auto=1&height=66"></iframe>
-  <br/>
-  <span style="color:#ffb6c1;font-size:0.95em;">（边听边看，欢迎进入二次元的魔法世界~）</span>
-</div>
+<p align="center">
+  <a href="https://music.163.com/song?id=2020880853" target="_blank">
+    <img src="https://img.shields.io/badge/正在播放-二次元BGM-ffb6c1?style=for-the-badge&logo=netease-cloud-music&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://music.163.com/#/song?id=2020880853" target="_blank">
+    <img src="https://img.shields.io/badge/点击这里-打开网易云音乐播放器-ffb6c1?style=flat-square&logo=music&logoColor=white" />
+  </a>
+</p>
+
+<!-- GitHub README 不支持直接嵌入 iframe，建议用外链提示 -->
 
 ---
 
 ## 🧠 关于我
 
-<div align="center" style="max-width: 600px; margin: 0 auto; background: linear-gradient(90deg, #f8e1ff 0%, #e1f0ff 100%); border-radius: 14px; padding: 18px 24px; box-shadow: 0 2px 12px #e1eaff; font-size: 1.08em; color: #a3a3ff;">
-<ul style="text-align:left;">
-<li>🌸 喜欢用代码构建属于自己的幻想世界，热爱 ACGN 与技术的交汇</li>
-<li>🪄 追求极致的美学与效率，享受每一次“魔法释放”般的开发体验</li>
-<li>✨ 探索后端、自动化、AI 应用、工具开发，偶尔也会画点小插画</li>
-<li>🐾 喜欢猫猫、手办、轻小说和各种萌系事物</li>
-<li>🎵 喜欢边听二次元音乐边 coding，偶尔也会写点同人文</li>
-<li>💬 欢迎通过 Issue、Discussion 或私信来交流二次元与技术的灵感！</li>
-</ul>
+<div align="center">
+
+|  |  |
+| :--- | :--- |
+| 🌸 喜欢用代码构建属于自己的幻想世界，热爱 ACGN 与技术的交汇 | 🪄 追求极致的美学与效率，享受每一次“魔法释放”般的开发体验 |
+| ✨ 探索后端、自动化、AI 应用、工具开发，偶尔也会画点小插画 | 🐾 喜欢猫猫、手办、轻小说和各种萌系事物 |
+| 🎵 边听二次元音乐边 coding，偶尔也会写点同人文 | 💬 欢迎通过 Issue、Discussion 或私信来交流二次元与技术的灵感！ |
+
 </div>
 
 ---
 
 ## 🛠 技术栈 & 常用工具
 
-<p align="center" style="background: linear-gradient(90deg, #f8e1ff 0%, #e1f0ff 100%); padding: 14px; border-radius: 12px; box-shadow: 0 2px 8px #e1eaff;">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -44,6 +51,7 @@
   <img src="https://img.shields.io/badge/AnimeJS-FF9E9E?style=for-the-badge&logo=animejs&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
 <p align="center" style="font-family: 'ZCOOL KuaiLe', 'Comic Sans MS', cursive; font-size: 1.05em; color: #ffb6c1;">
   ✨ 喜欢在深夜与猫猫一起敲代码，偶尔也会画点二次元小插画~<br>
   🌸 追番、听歌、撸猫、写代码，生活就是一场治愈系的冒险！<br>
@@ -54,35 +62,19 @@
 
 ## 📊 GitHub 数据展示
 
-<div align="center" style="margin-bottom: 10px;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oyxning&show_icons=true&theme=tokyonight&hide_title=true&icon_color=ffb6c1" style="border-radius: 10px; margin: 8px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oyxning&theme=tokyonight&hide_border=true" style="border-radius: 10px; margin: 8px;" />
   <img src="https://github-profile-trophy.vercel.app/?username=oyxning&theme=onestar&column=6&margin-w=10&margin-h=10" style="border-radius: 10px; margin: 8px;" />
-</div>
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oyxning&theme=github_dark" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oyxning&theme=github_dark&utcOffset=8" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oyxning&theme=github_dark" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oyxning&theme=github_dark" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oyxning&theme=github_dark" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oyxning&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oyxning&theme=github_dark&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oyxning&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oyxning&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oyxning&theme=github_dark" />
+</p>
 
 ---
 
