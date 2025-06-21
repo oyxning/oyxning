@@ -6,19 +6,11 @@
 <h1 align="center" style="font-family: 'ZCOOL KuaiLe', 'Comic Sans MS', cursive; color: #ffb6c1; text-shadow: 0 2px 8px #e1eaff;">你好哇，这里是 <strong>LumineStory</strong>（@oyxning）🌸✨</h1>
 <p align="center" style="font-size: 1.2em; color: #a3a3ff; margin-bottom: 0.5em;">一名沉迷二次元与代码的魔法少女程序员，梦想用技术点亮世界！</p>
 
-<p align="center">
-  <a href="https://music.163.com/song?id=2020880853" target="_blank">
-    <img src="https://img.shields.io/badge/正在播放-二次元BGM-ffb6c1?style=for-the-badge&logo=netease-cloud-music&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://music.163.com/#/song?id=2020880853" target="_blank">
-    <img src="https://img.shields.io/badge/点击这里-打开网易云音乐播放器-ffb6c1?style=flat-square&logo=music&logoColor=white" />
-  </a>
-</p>
-
-<!-- GitHub README 不支持直接嵌入 iframe，建议用外链提示 -->
+<div align="center" style="margin-bottom: 1em;">
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2020880853&auto=1&height=66"></iframe>
+  <br/>
+  <span style="color:#ffb6c1;font-size:0.95em;">（边听边看，欢迎进入二次元的魔法世界~）</span>
+</div>
 
 ---
 
@@ -26,11 +18,24 @@
 
 <div align="center">
 
-|  |  |
-| :--- | :--- |
-| 🌸 喜欢用代码构建属于自己的幻想世界，热爱 ACGN 与技术的交汇 | 🪄 追求极致的美学与效率，享受每一次“魔法释放”般的开发体验 |
-| ✨ 探索后端、自动化、AI 应用、工具开发，偶尔也会画点小插画 | 🐾 喜欢猫猫、手办、轻小说和各种萌系事物 |
-| 🎵 边听二次元音乐边 coding，偶尔也会写点同人文 | 💬 欢迎通过 Issue、Discussion 或私信来交流二次元与技术的灵感！ |
+<table>
+  <tr>
+    <td align="left" valign="top" width="50%">
+      <ul>
+        <li>🌸 喜欢用代码构建属于自己的幻想世界，热爱 ACGN 与技术的交汇</li>
+        <li>🪄 追求极致的美学与效率，享受每一次“魔法释放”般的开发体验</li>
+        <li>✨ 探索后端、自动化、AI 应用、工具开发，偶尔也会画点小插画</li>
+      </ul>
+    </td>
+    <td align="left" valign="top" width="50%">
+      <ul>
+        <li>🐾 喜欢猫猫、手办、轻小说和各种萌系事物</li>
+        <li>🎵 边听二次元音乐边 coding，偶尔也会写点同人文</li>
+        <li>💬 欢迎通过 Issue、Discussion 或私信来交流二次元与技术的灵感！</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -50,6 +55,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/AnimeJS-FF9E9E?style=for-the-badge&logo=animejs&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
 <p align="center" style="font-family: 'ZCOOL KuaiLe', 'Comic Sans MS', cursive; font-size: 1.05em; color: #ffb6c1;">
