@@ -7,7 +7,7 @@
 <p align="center" style="font-size: 1.2em; color: #a3a3ff; margin-bottom: 0.5em;">一名沉迷二次元与代码的魔法少女程序员，梦想用技术点亮世界！</p>
 
 <p align="center">
-  <b>♪ 网络歌曲推荐：Dye the sky. - シャイニーカラーズ</b><br/>
+  <b>♪ 歌曲推荐：Dye the sky. - シャイニーカラーズ</b><br/>
   <a href="https://m801.music.126.net/20250621204622/1d90bc3ab37d4ea6e9f35faab7fcb6a7/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/8721185631/38b7/34e6/a1c7/61348a8c1f8b6de1cd21d351c7c2bdfb.mp3?vuutv=H6tNI+lsoFHwTo91OsA2YUE7iTGMrbVfnXeUs0vX5qXjZJcEdIMb5L8gGTRTuxoznbYb9SSKyL8PL6aLeUYkjMhBJYyzcIldRNNmx/DBd1Y=" target="_blank">
     <img src="https://img.shields.io/badge/点击播放-网易云直链-ffb6c1?style=for-the-badge&logo=music&logoColor=white" alt="点击播放Dye the sky." />
   </a>
