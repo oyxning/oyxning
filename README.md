@@ -63,12 +63,6 @@
 ## 📊 GitHub 数据展示
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oyxning&show_icons=true&theme=tokyonight&hide_title=true&icon_color=ffb6c1" style="border-radius: 10px; margin: 8px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oyxning&theme=tokyonight&hide_border=true" style="border-radius: 10px; margin: 8px;" />
-  <img src="https://github-profile-trophy.vercel.app/?username=oyxning&theme=onestar&column=6&margin-w=10&margin-h=10" style="border-radius: 10px; margin: 8px;" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oyxning&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oyxning&theme=github_dark&utcOffset=8" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oyxning&theme=github_dark" />
