@@ -57,6 +57,12 @@
 
 ## 📊 GitHub 数据展示
 
+<div align="center" style="margin-bottom: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=oyxning&show_icons=true&theme=tokyonight&hide_title=true&icon_color=ffb6c1" style="border-radius: 10px; margin: 8px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oyxning&theme=tokyonight&hide_border=true" style="border-radius: 10px; margin: 8px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=oyxning&theme=onestar&column=6&margin-w=10&margin-h=10" style="border-radius: 10px; margin: 8px;" />
+</div>
+
 <table align="center">
   <tr>
     <td align="center">
@@ -86,14 +92,20 @@
 
 ## 🌍 个人理念
 
-> 编程就像魔法，用代码书写属于自己的冒险故事。<br>
-> 用技术点亮生活，用创意连接世界。
+<div align="center" style="font-family: 'ZCOOL KuaiLe', 'Comic Sans MS', cursive; color: #a3a3ff; font-size: 1.1em; background: linear-gradient(90deg, #f8e1ff 0%, #e1f0ff 100%); border-radius: 12px; padding: 16px; margin-bottom: 10px;">
+  <p>✧ 编程是我的魔法，代码是我的魔杖。<br>
+  ✧ 喜欢在深夜与猫猫一起debug，像主角一样在二次元世界冒险。<br>
+  ✧ 用技术和创意，构建属于自己的治愈系幻想乡。<br>
+  ✧ 相信每一行代码都能点亮世界的一角，每一次commit都是成长的足迹。<br>
+  ✧ 让生活和梦想都充满二次元的色彩与温度！</p>
+</div>
 
 ---
 
 ## 📬 联系方式
 
 - GitHub：[@oyxning](https://github.com/oyxning)
-- 如果你也喜欢二次元或技术，欢迎留言交流！
+- 📨 如果你也喜欢二次元、技术或想一起组队冒险，欢迎随时留言交流！
+- ✉️ 也欢迎通过 Issue、Discussion 或私信来投递你的魔法信件~
 
 ---
