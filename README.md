@@ -1,6 +1,6 @@
 <!-- 首页大图：全宽展示 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oyxning/oyxning/refs/heads/main/sakisaki.jpg" alt="LumineStory Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 24px #e1eaff;" />
+  <img src="[https://raw.githubusercontent.com/oyxning/oyxning/refs/heads/main/sakisaki.jpg]" alt="LumineStory Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 24px #e1eaff;" />
 </p>
 
 <h1 align="center" style="font-family: 'ZCOOL KuaiLe', 'Comic Sans MS', cursive; color: #ffb6c1; text-shadow: 0 2px 8px #e1eaff;">你好哇，这里是 <strong>LumineStory</strong>（@oyxning）🌸✨</h1>
