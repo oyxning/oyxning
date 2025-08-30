@@ -1,6 +1,6 @@
 <!-- 首页大图：全宽展示，采用明日方舟风格 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oyxning/oyxning/refs/heads/main/Nifumiao.png" alt="明日方舟风格头图" width="100%" style="border-radius: 8px; border: 2px solid #ff5e7d; box-shadow: 0 4px 30px rgba(255, 94, 125, 0.3);" />
+  <img src="https://raw.githubusercontent.com/oyxning/oyxning/refs/heads/main/Nifu.png" alt="明日方舟风格头图" width="100%" style="border-radius: 8px; border: 2px solid #ff5e7d; box-shadow: 0 4px 30px rgba(255, 94, 125, 0.3);" />
 </p>
 
 <h1 align="center" style="font-family: 'Microsoft YaHei', sans-serif; color: #ff5e7d; text-shadow: 0 2px 10px rgba(255, 94, 125, 0.3); margin-bottom: 0.5em;">
