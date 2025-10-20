@@ -8,14 +8,6 @@
 <h1>你好，我是 <b>@oyxning</b></h1>
 <p>写代码的人，喜欢把事情做简单。</p>
 
-<!-- 轻量信息，不夸张 -->
-<a href="https://github.com/oyxning?tab=followers">
-  <img alt="followers" src="https://img.shields.io/github/followers/oyxning?style=flat&label=关注者&labelColor=F7DDE5&color=F3A7BE">
-</a>
-<a href="https://github.com/oyxning">
-  <img alt="profile-views" src="https://komarev.com/ghpvc/?username=oyxning&style=flat&label=访问量&color=F3A7BE">
-</a>
-
 </div>
 
 <p align="center">—— 轻松、清爽，刚刚好 ——</p>
