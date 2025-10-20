@@ -3,88 +3,99 @@
   <img src="https://raw.githubusercontent.com/oyxning/oyxning/refs/heads/main/gudu.jpg" alt="miao" width="100%" style="border-radius: 8px; border: 2px solid #ff5e7d; box-shadow: 0 4px 30px rgba(255, 94, 125, 0.3);" />
 </p>
 
-<div align="center">
+<h1 align="center" style="font-family: 'Microsoft YaHei', sans-serif; color: #ff5e7d; text-shadow: 0 2px 10px rgba(255, 94, 125, 0.3); margin-bottom: 0.5em;">
+  你好，这里是 <strong>@oyxning</strong><br>
+  <span style="font-size: 0.8em; color: #9aa5ce;">一名热爱技术的开发者</span>
+</h1>
+<p align="center" style="font-size: 1.1em; color: #9aa5ce; margin-bottom: 1.5em;">在代码世界中寻找创意与解决方案，热爱技术与二次元文化的融合</p>
 
-<h1><code>@oyxning</code></h1>
-<p><sub>modular · minimal · maintainable</sub></p>
+---
 
-<a href="https://github.com/oyxning?tab=followers">
-  <img alt="followers" src="https://img.shields.io/github/followers/oyxning?style=flat&label=FOLLOW&labelColor=0B1220&color=00FFC6">
-</a>
-<a href="https://github.com/oyxning">
-  <img alt="profile-views" src="https://komarev.com/ghpvc/?username=oyxning&style=flat&label=VIEWS&color=00D1B2">
-</a>
+## 👨‍💻 关于我
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1100&center=true&vCenter=true&repeat=true&width=520&lines=booting+profile...;signal%3A+online;interfaces%3A+clear;latency%3A+low" alt="typing" />
-
+<div align="center" style="background: rgba(16, 20, 40, 0.7); border-radius: 12px; padding: 20px; border: 1px solid #2a3457;">
+  <table width="90%">
+    <tr>
+      <td valign="top" width="50%">
+        <h3 style="color: #ff5e7d; margin-top: 0; font-family: 'Microsoft YaHei', sans-serif;">💼 专业背景</h3>
+        <ul style="color: #9aa5ce; text-align: left;">
+          <li>• 专注于后端开发、自动化和AI应用</li>
+          <li>• 擅长将复杂问题简化为优雅的解决方案</li>
+          <li>• 热衷于工具开发和提升工作效率</li>
+          <li>• 偶尔也会尝试一些前端项目</li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        <h3 style="color: #ff5e7d; margin-top: 0; font-family: 'Microsoft YaHei', sans-serif;">🎯 个人爱好</h3>
+        <ul style="color: #9aa5ce; text-align: left;">
+          <li>• 喜欢二次元文化、追番和游戏</li>
+          <li>• 享受编程的过程，特别是解决挑战性问题</li>
+          <li>• 业余时间喜欢绘画和创作</li>
+          <li>• 热爱猫咪和小动物</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<p align="center">▁▂▃▅▆▇ <em>signal online</em> ▇▆▅▃▂▁</p>
-
-> keep it simple, keep it stable  
-> 保持简单，保持稳定
-
-## 概览
-- 把复杂度**收纳**到清晰的接口里  
-- 偏好**可复用**的小模块与脚本  
-- 文档与错误提示要**直接**、**好懂**
-
 ---
 
-## 导航
-- ⌁ <a href="https://github.com/oyxning?tab=repositories">所有仓库</a>  
-- ★ <a href="https://github.com/oyxning?tab=stars">已 Star</a>  
-- 📌 提示：在个人主页右侧 “Customize your pins” 固定 2–6 个你想展示的仓库
+## 🛠 技术栈 & 工具
 
----
-
-## 工具栈
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-0B1220?logo=python&logoColor=00FFC6&labelColor=0B1220&color=0B1220" />
-<img src="https://img.shields.io/badge/Go-0B1220?logo=go&logoColor=00FFC6&labelColor=0B1220&color=0B1220" />
-<img src="https://img.shields.io/badge/FastAPI-0B1220?logo=fastapi&logoColor=00FFC6&labelColor=0B1220&color=0B1220" />
-<img src="https://img.shields.io/badge/Flask-0B1220?logo=flask&logoColor=00FFC6&labelColor=0B1220&color=0B1220" />
-<img src="https://img.shields.io/badge/Docker-0B1220?logo=docker&logoColor=00FFC6&labelColor=0B1220&color=0B1220" />
-<img src="https://img.shields.io/badge/Linux-0B1220?logo=linux&logoColor=00FFC6&labelColor=0B1220&color=0B1220" />
-<img src="https://img.shields.io/badge/GitHub-0B1220?logo=github&logoColor=00FFC6&labelColor=0B1220&color=0B1220" />
-
+<div align="center" style="margin: 20px 0;">
+  <div style="background: rgba(16, 20, 40, 0.7); border-radius: 12px; padding: 15px; border: 1px solid #2a3457; display: inline-block;">
+    <h3 style="color: #ff5e7d; margin-top: 0; font-family: 'Microsoft YaHei', sans-serif;">主要技术</h3>
+    <p style="margin-bottom: 10px;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> 
+    </p>
+  </div>
 </div>
 
-> 小模块拼装能力；依赖尽量少，接口尽量稳。
-
 ---
 
-## 系统日志（近期）
-- 整理脚手架与模板  
-- 完善仓库说明与示例  
-- 清理与归档旧 Issue
-
----
-
-## 视觉部件（可选）
-<details>
-<summary>展开</summary>
+## 📊 GitHub 数据
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oyxning&show_icons=true&rank_icon=github&theme=transparent" height="140" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyxning&layout=donut&theme=transparent" height="140" alt="top-langs"/>
-  <img src="https://streak-stats.demolab.com?user=oyxning&theme=transparent" height="140" alt="streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oyxning&theme=github_dark" /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oyxning&theme=github_dark&utcOffset=8" /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oyxning&theme=github_dark" /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oyxning&theme=github_dark" /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oyxning&theme=github_dark" /> 
 </div>
 
-</details>
+---
+
+## 💡 个人理念
+
+<div align="center" style="background: linear-gradient(135deg, rgba(36, 43, 73, 0.7) 0%, rgba(22, 27, 49, 0.7) 100%); border-radius: 12px; padding: 20px; border: 1px solid #2a3457; max-width: 700px; margin: 0 auto;">
+  <p style="color: #9aa5ce; line-height: 1.6; font-family: 'Microsoft YaHei', sans-serif;">
+    我相信技术的力量能够创造更美好的世界。在编程的过程中，我不仅追求功能的实现，更注重代码的优雅和效率。<br>
+    我喜欢将二次元文化中的创意元素融入到技术作品中，让编程不仅是工作，更是一种创作和表达。<br>
+    欢迎同样热爱技术和二次元文化的朋友们一起交流，共同进步。
+  </p>
+</div>
 
 ---
 
-## 友链（可选）
-- 可以在这里放置你常访问或认同的项目链接  
-- 若后续想做“卡片式”友链，可单独建一个仓库/脚本生成图片，再在此处以 `<img>` 引用
+## 📬 联系方式
+
+<div align="center" style="color: #9aa5ce;">
+  <p>• GitHub：<a href="https://github.com/oyxning" style="color: #ff5e7d; text-decoration: none;">@oyxning</a></p>
+  <p>• 交流方式：通过 Issue、Discussion 或私信联系</p>
+  <p>• 合作意向：欢迎就技术项目或创意想法进行交流</p>
+</div>
 
 ---
-
-## 联系
-- 在主页或仓库发 Issue / Discussion 即可  
-- 看到就会回复
-
-<p align="center"><sub>—— end of transmission ——</sub></p>
-
