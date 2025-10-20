@@ -3,99 +3,102 @@
   <img src="https://raw.githubusercontent.com/oyxning/oyxning/refs/heads/main/gudu.jpg" alt="miao" width="100%" style="border-radius: 8px; border: 2px solid #ff5e7d; box-shadow: 0 4px 30px rgba(255, 94, 125, 0.3);" />
 </p>
 
-<h1 align="center" style="font-family: 'Microsoft YaHei', sans-serif; color: #ff5e7d; text-shadow: 0 2px 10px rgba(255, 94, 125, 0.3); margin-bottom: 0.5em;">
-  你好，这里是 <strong>@oyxning</strong><br>
-  <span style="font-size: 0.8em; color: #9aa5ce;">一名热爱技术的开发者</span>
-</h1>
-<p align="center" style="font-size: 1.1em; color: #9aa5ce; margin-bottom: 1.5em;">在代码世界中寻找创意与解决方案，热爱技术与二次元文化的融合</p>
+<!-- 👇 保留你原来的头图在这一行上方，不要改动 -->
+
+<h1 align="center">你好，我是 @oyxning · LumineStory</h1>
+<p align="center">
+  后端 / 自动化 / AstrBot 插件 / AI 应用 · 喜欢把复杂问题做成优雅的工具
+</p>
+
+<p align="center">
+  <a href="https://github.com/oyxning?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/oyxning?style=flat&label=关注者"></a>
+  <a href="https://github.com/oyxning"><img alt="profile-views" src="https://komarev.com/ghpvc/?username=oyxning&style=flat&label=访问量"></a>
+</p>
 
 ---
 
-## 👨‍💻 关于我
+## 👋 关于我
 
-<div align="center" style="background: rgba(16, 20, 40, 0.7); border-radius: 12px; padding: 20px; border: 1px solid #2a3457;">
-  <table width="90%">
-    <tr>
-      <td valign="top" width="50%">
-        <h3 style="color: #ff5e7d; margin-top: 0; font-family: 'Microsoft YaHei', sans-serif;">💼 专业背景</h3>
-        <ul style="color: #9aa5ce; text-align: left;">
-          <li>• 专注于后端开发、自动化和AI应用</li>
-          <li>• 擅长将复杂问题简化为优雅的解决方案</li>
-          <li>• 热衷于工具开发和提升工作效率</li>
-          <li>• 偶尔也会尝试一些前端项目</li>
-        </ul>
-      </td>
-      <td valign="top" width="50%">
-        <h3 style="color: #ff5e7d; margin-top: 0; font-family: 'Microsoft YaHei', sans-serif;">🎯 个人爱好</h3>
-        <ul style="color: #9aa5ce; text-align: left;">
-          <li>• 喜欢二次元文化、追番和游戏</li>
-          <li>• 享受编程的过程，特别是解决挑战性问题</li>
-          <li>• 业余时间喜欢绘画和创作</li>
-          <li>• 热爱猫咪和小动物</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+- 专注 **后端开发 / 自动化 / AI 应用**，热衷把想法做成可复用的**小而美工具**
+- 关注 **提示词安全、防注入** 与 **Bot 体验**，做过一系列 AstrBot 插件  
+- 偶尔做点前端与可视化，让工具更好用、更好看
+- 二次元爱好者，代码里也想要一点“浪漫 ✨”
 
 ---
 
-## 🛠 技术栈 & 工具
+## 🧩 精选项目（AstrBot 插件生态）
 
-<div align="center" style="margin: 20px 0;">
-  <div style="background: rgba(16, 20, 40, 0.7); border-radius: 12px; padding: 15px; border: 1px solid #2a3457; display: inline-block;">
-    <h3 style="color: #ff5e7d; margin-top: 0; font-family: 'Microsoft YaHei', sans-serif;">主要技术</h3>
-    <p style="margin-bottom: 10px;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> 
-    </p>
-  </div>
-</div>
+> 下面是我正在维护/打磨的代表作，欢迎试用 & 提 Issue：
+
+- **Anti-Prompt Injector**（提示词注入防护 · 动态防御矩阵）  
+  为 Bot 提供从“巡航到焦土”的多层防御策略，追求 **安全 x 体验** 的平衡。  
+  🔗 项目地址：<a href="https://github.com/oyxning/astrbot_plugin_antipromptinjector">oyxning/astrbot_plugin_antipromptinjector</a>
+
+- **Echo Avatar（仿言分身）**  
+  学习/模仿指定用户说话风格，生成带个性化语气的 Prompt。  
+  🔗 项目地址：<a href="https://github.com/oyxning/astrtbot_plugin_echo_avatar">oyxning/astrtbot_plugin_echo_avatar</a>
+
+- **SakiSaki（香草小祥追击）**  
+  有趣的 AstrBot 小游戏插件，轻量可拓展。  
+  🔗 项目地址：<a href="https://github.com/oyxning/astrbot_plugin_sakisaki">oyxning/astrbot_plugin_sakisaki</a>
+
+> 想把你的 Bot 打造得更聪明、更安全、更有趣？欢迎来交流，一起迭代！
 
 ---
 
-## 📊 GitHub 数据
+## 🛠 技术栈
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oyxning&theme=github_dark" /> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oyxning&theme=github_dark&utcOffset=8" /> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oyxning&theme=github_dark" /> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oyxning&theme=github_dark" /> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oyxning&theme=github_dark" /> 
+
+**后端 / 语言**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="28" alt="go"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="js"/>
+
+**框架 / 平台**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28" alt="fastapi"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="28" alt="flask"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="docker"/>
+
+**工具链**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" alt="github"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="linux"/>
+
 </div>
+
+> 喜欢“高内聚、低耦合、可插拔”的设计，偏好通过小插件把复杂度拆散。
 
 ---
 
-## 💡 个人理念
+## 📊 开源数据
 
-<div align="center" style="background: linear-gradient(135deg, rgba(36, 43, 73, 0.7) 0%, rgba(22, 27, 49, 0.7) 100%); border-radius: 12px; padding: 20px; border: 1px solid #2a3457; max-width: 700px; margin: 0 auto;">
-  <p style="color: #9aa5ce; line-height: 1.6; font-family: 'Microsoft YaHei', sans-serif;">
-    我相信技术的力量能够创造更美好的世界。在编程的过程中，我不仅追求功能的实现，更注重代码的优雅和效率。<br>
-    我喜欢将二次元文化中的创意元素融入到技术作品中，让编程不仅是工作，更是一种创作和表达。<br>
-    欢迎同样热爱技术和二次元文化的朋友们一起交流，共同进步。
-  </p>
+<div align="center">
+
+<!-- GitHub 统计卡片（第三方服务，偶有波动，可按需保留/删除） -->
+<img src="https://github-readme-stats.vercel.app/api?username=oyxning&show_icons=true&rank_icon=github&theme=transparent" height="140" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyxning&layout=donut&theme=transparent" height="140" alt="top-langs"/>
+<img src="https://streak-stats.demolab.com?user=oyxning&theme=transparent" height="140" alt="streak"/>
+
 </div>
+
+> 如果遇到加载失败，多半是服务限流，过一会儿会恢复；也可以自行部署镜像服务。
 
 ---
 
-## 📬 联系方式
+## 🗺️ 近期在做
 
-<div align="center" style="color: #9aa5ce;">
-  <p>• GitHub：<a href="https://github.com/oyxning" style="color: #ff5e7d; text-decoration: none;">@oyxning</a></p>
-  <p>• 交流方式：通过 Issue、Discussion 或私信联系</p>
-  <p>• 合作意向：欢迎就技术项目或创意想法进行交流</p>
-</div>
+- 打磨 AstrBot 插件的**安全策略**与**开发者体验**
+- 整理一套 **“Bot 能力插件化”** 的最佳实践
+- 持续清理代码、补文档与示例，提升易用性
 
 ---
+
+## 🤝 联系方式
+
+- 在本主页或对应仓库 **发 Issue/Discussion** 即可找到我  
+- 有合作/创意想法，欢迎交流（接收有趣的点子与挑战）
+
+---
+
+<sub>Made with ❤️ 让工具变得有温度</sub>
