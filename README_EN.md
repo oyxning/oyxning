@@ -85,9 +85,9 @@
 
 <div align="center" style="background: linear-gradient(135deg, rgba(36, 43, 73, 0.7) 0%, rgba(22, 27, 49, 0.7) 100%); border-radius: 12px; padding: 20px; border: 1px solid #2a3457; max-width: 700px; margin: 0 auto;">
   <p style="color: #9aa5ce; line-height: 1.6; font-family: 'Arial', sans-serif;">
-    I believe in the power of technology to create a better world. In the programming process, I not only pursue functional implementation but also focus on code elegance and efficiency.<br>
-    I enjoy integrating creative elements from anime culture into technical works, making programming not just work but also a form of creation and expression.<br>
-    Welcome to all friends who also love technology and anime culture to exchange ideas and progress together.
+    I believe in the power of technology to create a better world. In the process of programming, I not only pursue functional implementation but also focus on code elegance and efficiency.<br>
+    I enjoy integrating creative elements from anime culture into my technical works, making programming not just a job, but also a form of creation and expression.<br>
+    Welcome to connect with fellow enthusiasts who share the love for both technology and anime culture.
   </p>
 </div>
 
@@ -96,8 +96,8 @@
 ## 📬 Contact Information
 
 <div align="center" style="color: #9aa5ce;">
-  <p>• GitHub: <a href="https://github.com/oyxning" style="color: #ff5e7d; text-decoration: none;">@oyxning</a></p>
-  <p>• Communication: Reach out through Issues, Discussions, or private messages</p>
+  <p>• GitHub：<a href="https://github.com/oyxning" style="color: #ff5e7d; text-decoration: none;">@oyxning</a></p>
+  <p>• Communication: Reach out through Issues, Discussions, or direct messages</p>
   <p>• Collaboration: Open to discussing technical projects or creative ideas</p>
 </div>
 
